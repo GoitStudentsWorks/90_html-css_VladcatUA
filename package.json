@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-BigStartTheory09/",
+    "build": "vite build --base=/90_html-css_VladcatUA/",
     "preview": "vite preview"
   },
   "devDependencies": {
